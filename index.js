@@ -30,3 +30,6 @@ console.log(isValid("()[]{}"));
 console.log(isValid("(]"));
 console.log(isValid("([)]"));
 console.log(isValid("{[]}"));
+
+//Runtime: 105 ms, faster than 40.85% of JavaScript online submissions for Valid Parentheses.
+//Memory Usage: 41.7 MB, less than 98.58% of JavaScript online submissions for Valid Parentheses.
