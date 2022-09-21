@@ -15,3 +15,6 @@ var mergeTwoLists = function(list1, list2) {
     const mergedList = list1.concat(list2)
     return mergedList.sort();
 };
+
+//testing
+console.log(mergeTwoLists([2,3,4] , [1,6,6,7]))
